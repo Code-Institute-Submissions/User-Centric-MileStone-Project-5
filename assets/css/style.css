@@ -77,4 +77,86 @@ p {
   animation-fill-mode: forwards;
 }
 
+/** ---------------H3, Cover text and Button elements-*/
+
+#cover-text,
+h3 {
+  color: #fafafa;
+  margin: 10px auto;
+}
+
+#cover-text {
+  font-size: 100%;
+  font-family: "Exo", sans-serif;
+  text-transform: uppercase;
+  letter-spacing: 4px;
+
+  width: 400px;
+  height: 130px;
+  padding-top: 10px;
+  padding-left: 10px;
+  background-color: rgba(12, 151, 82, 0.8);
+  bottom: 30px;
+  right: 150px;
+  position: absolute;
+}
+
+.button {
+  background-color: orange;
+  border-radius: 6px;
+  color: white;
+  text-align: center;
+  padding: 4px;
+  position: relative;
+  margin-top: 20px;
+  left: 30%;
+  text-decoration-style: none;
+  font-size: 20px;
+}
+
+/**----------------------- Home page -main content-*/
+
+.welcome {
+  margin: 5px auto;
+  font-family: "Exo", sans-serif;
+  text-align: center;
+  font-size: 250%;
+  color: green;
+}
+
+.main-content {
+  margin: 2em auto;
+  padding: 1em;
+  position: relative;
+}
+
+.vegan-content {
+  color: yellowgreen;
+  font-size: 1.3rem;
+  font-weight: 600;
+  margin-bottom: 20px;
+  text-transform: uppercase;
+  text-align: center;
+}
+
+/**----------------------- Home page vegan media-*/
+.vegan-media {
+  height: auto;
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  margin-bottom: 50px;
+}
+
+#salad-video {
+  width: 100%;
+}
+
+video {
+  max-width: 100%;
+  height: auto;
+}
+
+/* ----------------------------------------Recipes page */
+
 
