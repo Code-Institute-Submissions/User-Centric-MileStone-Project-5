@@ -159,4 +159,28 @@ video {
 
 /* ----------------------------------------Recipes page */
 
+.vegan-recipes {
+  margin: 2em auto;
+  padding: 1em;
+  position: relative;  
+  
+}
+
+.top-section {
+  margin-top: 110px;
+}
+
+.recipes {
+  color: yellowgreen;
+  font-size: 1.3rem;
+  font-weight: 700;
+  margin-bottom: 20px;
+  text-transform: uppercase;
+}
+
+.last-section {  
+  margin-bottom: 50px;   
+}
+
+/* ----------------------------------------Contact page */
 
