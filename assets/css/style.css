@@ -184,28 +184,20 @@ video {
 
 /* ----------------------------------------Contact page */
 .contact-info {  
-  width: 100%;
-  overflow: hidden;
-  margin: 150px auto 100px auto;
-  
+  width: 100%; 
+  margin: 150px auto 40px auto;  
   height: auto;
-  
-  border: 1px solid red;
 }
 
-.contact-info,  h2 {
-    padding-bottom: 20px; 
-    
+.contact-info,  h2 {     
+  padding-bottom: 30px;   
 }
 
 /* ----------------------------------------Sign up page */
 .sign-up {  
   width: 380px; 
   height: 545px;
-
   margin: 120px auto 120px auto;
-
-  border: 1px solid red;
 }
 
 .signup-form {  
