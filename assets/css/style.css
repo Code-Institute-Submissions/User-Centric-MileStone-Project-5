@@ -257,3 +257,35 @@ footer p {
 }
 
 /*-------------------------- End of Social Media-*/
+
+/*-------------------------- mobile phone--*/
+
+@media screen and (max-width: 743px) {
+  #cover-text {
+    display: none;
+  }
+  
+  #welcome  {    
+    font-size: 150%;
+    margin: 0;
+    padding: 0;
+    }
+
+  .main-content {
+    margin: 0;
+  }
+
+  #salad-video {
+    max-width: 700px;
+    height: auto
+  }
+
+  .social-sub {
+  position: absolute; 
+  left: 20px;
+}
+   .nav.navbar.fixed-top {
+        overflow-y: visible;
+    }
+      
+}
