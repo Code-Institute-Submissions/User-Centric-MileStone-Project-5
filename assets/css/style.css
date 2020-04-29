@@ -112,6 +112,7 @@ h3 {
   border-radius: 6px;  
   cursor: pointer;
   border: none;
+  font-weight: bold;
 }
 
 /**----------------------- Home page -main content-*/
@@ -221,8 +222,7 @@ footer {
 .social-links {
   padding-bottom: 15px;
   float: right;
-  padding-top: 35px;
-  border: 1px solid red;
+  padding-top: 35px;  
   margin-top: 0;
 }
 
@@ -247,15 +247,12 @@ footer {
 }
 
 #footer-details {
-  padding-top: 10px;
-   border: 1px solid blue;
- 
+  padding-top: 10px;   
 }
 
 .social-sub {
   position: absolute;
-  right: 20px;
-   border: 1px solid red;
+  right: 20px;  
 }
 
 footer p {
@@ -307,11 +304,9 @@ footer p {
        height: 400px;
    }
 
-   .vegan-recipes {
-       margin-top: 55px;
+   .vegan-recipes {       
        margin-bottom: 30px;
-       padding: 10px;
-       border: 1px solid red;
+       padding: 10px;       
    }
 
 
