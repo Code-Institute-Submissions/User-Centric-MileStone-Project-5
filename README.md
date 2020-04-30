@@ -31,6 +31,9 @@ a healthy diet. We don't necessarily have to spend hours in the kitchen to prepa
   - assets/mockup/User Centric MileStone  Project 1.pdf
   - assets/mockup/User Centric MileStone  Project 1- Smartphone.pdf
 
+- website
+  - https://dop-dd.github.io/User-Centric-MileStone-Project-1/index.html
+
 ## Features
 
 The website is made up of 4 pages. 
