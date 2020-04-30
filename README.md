@@ -27,8 +27,9 @@ a healthy diet. We don't necessarily have to spend hours in the kitchen to prepa
   - As a user I want to be recommended meeting options based on my location 
   - As a user I want to be able to browse through the activities by SalaLane so I can create a new experience
   
-- Link to Mockup
-  - assets/mockup/User Centric MileStone  Project 1 .pdf
+- Link to Mockups 
+  - assets/mockup/User Centric MileStone  Project 1.pdf
+  - assets/mockup/User Centric MileStone  Project 1- Smartphone.pdf
 
 ## Features
 
@@ -117,9 +118,9 @@ This projet is built using HTML, CSS and Bootstrap
 
 The code consist of static website developed using HTML, CSS and Bootstrap. This code does not contain any executable file. The website is hosted
 using Github pages. This can be located via:
-    1. Settings tab on the repository page
-    2. Github pages
-    3. Under Github pages select source and choose master branch. This will then use the mastr branch for the Github pages
+   - Settings tab on the repository page
+   - Github pages
+   - Under Github pages select source and choose master branch. This will then use the mastr branch for the Github pages
 
 ## Credits
 
