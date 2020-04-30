@@ -115,7 +115,11 @@ This projet is built using HTML, CSS and Bootstrap
 
 ## Deployment
 
-The code consist of HTML and CSS using animation and transform set. This code is just a simple web page and does not contain any executable file.
+The code consist of static website developed using HTML, CSS and Bootstrap. This code does not contain any executable file. The website is hosted
+using Github pages. This can be located via:
+    1. Settings tab on the repository page
+    2. Github pages
+    3. Under Github pages select source and choose master branch. This will then use the mastr branch for the Github pages
 
 ## Credits
 
