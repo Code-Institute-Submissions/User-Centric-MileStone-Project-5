@@ -100,11 +100,11 @@ body {
   text-decoration: none;
   display: inline-block;
   font-size: 16px;
-  margin-left: 20%;
+  margin-left: 90px;
   border-radius: 6px;  
   cursor: pointer;
-  border: none;
   font-weight: bold;
+  border: none;
 }
 
 /**----------------------- Home page -main content-*/
