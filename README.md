@@ -3,14 +3,25 @@
 
 # SaladLane
 
-SaladLane is a concept where salad lovers meet to share their ideas adn recipes. Though inspired by Vagans, the meetings and membership are however not limited to vegans only. Non vegan and vegetarians are welcome. There's great benefit in eating plant-based products and we aim to share our experience by organising monthly meetups. During this meetup, members are encouraged to bring prepared salad dishes and the recipes they used. There's also room for those who want to regurly eat plain salad witho
+SaladLane is a concept where salad lovers meet to share their ideas adn recipes. The project owes its inception to the Love Running website concept. Though inspired by Vegans, the meetings and membership are however not limited to vegans only. 
+Non vegan and vegetarians are welcome. There's great benefit in eating plant-based products and we aim to share our experience by organising monthly meetups. 
+During this meetup, members are encouraged to bring prepared salad dishes and the recipes they used. There's also room for those who do not want to regurly eat plain salad without dairy products. Everyone is welcome to join. However,
+we try to put some emphasis trying out animal free products. That way, set forth our banner, but with no particular obligations or restrictions.
+The site contains basic information for salad lover who may wish to drop in for a quick dish or a social meetup at a specific location.
+
 
 
 
 ## UX
 
 This project is for anyone who loves Salad. Owing to the busy schedules people often have, it's sometimes difficult to keep a 
-a healthy diet. We don't necessarily have to spend hours in the kitchen to prepare a health dish. We can eat on the go while saving time and even money. SaladLane aims to provide members with quick and easy recipes. Members can sign up and partake in a meetup or have recipes sent to them via mail. Our site provides video tutorials tips on how to make salads.
+a healthy diet. We don't necessarily have to spend hours in the kitchen to prepare a health dish. We can eat on the go while saving time and even money. SaladLane aims to provide members with quick and easy recipes. 
+Members can sign up and partake in a meetup or have recipes sent to them via mail. Our site provides video tutorials tips on how to make salads.
+The site is comprised of four pages; Home, Recipes Contact and Get connected where user can sign up.
+The Home page contains information such as meetup times, a section for non vegans and a video of a member making salad.
+The Recipes page contains a wide variety of flavours with images from sweet to spicy. For consistency of user experience the site's logo, navigation links and social
+media links on the page footer are repeated across the site's pages. The design and layout is also consistent when viewed on desktop, tablet or mobile
+devices. The use of Bootstrap enables the site elements to rearrange themselves according to the current browser screen width in use.
 
 - As a user I want to sign up and meet others who share the same interests as myself.
 - By becoming a member, I can benefit from the monthly sessions organised by Saladlane to try oout different salad dishes and        flavours.
