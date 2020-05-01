@@ -267,9 +267,9 @@ footer p {
   }
   
   .welcome  {    
-    font-size: 150%;
-    margin-bottom: 15px;
-    padding: 5px;
+    font-size: 120%;
+    margin-bottom: 0;
+    margin-top: 0;    
     }
 
   .main-content {
@@ -305,7 +305,19 @@ footer p {
    }
 
    .vegan-recipes {       
-       margin-bottom: 30px;
+      margin: 5px;
        padding: 10px;       
+   }
+
+   .top-section {
+       margin-top: 80px;
+   }
+
+   .last-section {
+       margin-bottom: 15px;
+   }
+
+   .recipes {
+       text-align: center;
    }
 }
