@@ -8,20 +8,20 @@ body {
 /*--- navigation bar ---*/
 
 .navbar {
-  background: rgb(70, 145, 70);
+  background: rgb(70, 145, 70); 
 }
 
 .navbar-nav {
   font-size: 150%;
   list-style-type: none;
-  letter-spacing: 4px;
-  line-height: 55px;
-  padding-bottom: 10px;
+  letter-spacing: 4px;  
+  padding-bottom: 10px;  
 }
 
 .navbar-nav a {
   text-decoration: none;
   color: #fafafa;
+  
 }
 
 .navbar-nav a:hover {
@@ -37,15 +37,8 @@ body {
   color: white;
 }
 
-.vegan-recipes,
-.vegan-content,
-p {
-  font-family: "Exo", sans-serif;
-  font-size: 18px;
-}
-
 .navbar-collapse {
-  justify-content: flex-end;
+  justify-content: flex-end;  
 }
 
 /****-----------Cover elements----*/
@@ -55,6 +48,8 @@ p {
   width: 100%;
   overflow: hidden;
   position: relative;
+  margin-top: 70px;
+  border: 1px solid yellow;
 }
 
 @keyframes cover-zoom {
@@ -180,8 +175,8 @@ p {
 /* ----------------------------------------Contact page */
 .contact-info {  
   width: 100%; 
-  margin: 180px auto 60px auto;  
-  height: auto;
+  margin: 180px auto 90px auto;  
+  height: auto;  
 }
 
 .contact-info,  h2 {     
@@ -192,7 +187,7 @@ p {
 .sign-up {  
   width: 380px; 
   height: 580px;
-  margin: 120px auto 120px auto;
+  margin: 140px auto 150px auto;  
 }
 
 .signup-form {  
@@ -204,11 +199,18 @@ p {
     color: #fafafa;
 }
 
+.vegan-recipes,
+.vegan-content,
+p {
+  font-family: "Exo", sans-serif;
+  font-size: 18px;
+}
+
 /*----------------------------------------Footer */
 footer {
   background-color: #03883f;
   color: #fafafa;
-  min-height: 150px;
+  min-height: 135px;
   margin: 0;
   
 }
