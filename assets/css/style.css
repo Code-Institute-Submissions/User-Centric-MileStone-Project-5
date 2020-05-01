@@ -65,7 +65,7 @@ p {
     transform: scale(1.1);
   }
 }
-
+ 
 #cover-image {
   height: 600px;
   width: 100%;
@@ -75,7 +75,7 @@ p {
   animation-fill-mode: forwards;
 }
 
-/** ---------------H3, Cover text and Button elements-*/
+/** ---------------H3, Cover text and Button elements-*/ 
 
 #cover-text,
 h3 {

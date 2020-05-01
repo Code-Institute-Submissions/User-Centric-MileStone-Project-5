@@ -5,7 +5,9 @@
 
 SaladLane is a concept where salad lovers meet to share their ideas adn recipes. The project owes its inception to the Love Running website concept. Though inspired by Vegans, the meetings and membership are however not limited to vegans only. 
 Non vegan and vegetarians are welcome. There's great benefit in eating plant-based products and we aim to share our experience by organising monthly meetups. 
-During this meetup, members are encouraged to bring prepared salad dishes and the recipes they used. There's also room for those who do not want to regurly eat plain salad without dairy products. Everyone is welcome to join. However,
+During this meetup, members are encouraged to bring prepared salad dishes and the recipes they used. 
+
+There's also room for those who do not want to regurly eat plain salad without dairy products. Everyone is welcome to join. However,
 we try to put some emphasis trying out animal free products. That way, set forth our banner, but with no particular obligations or restrictions.
 The site contains basic information for salad lover who may wish to drop in for a quick dish or a social meetup at a specific location.
 
@@ -18,6 +20,7 @@ This project is for anyone who loves Salad. Owing to the busy schedules people o
 a healthy diet. We don't necessarily have to spend hours in the kitchen to prepare a health dish. We can eat on the go while saving time and even money. SaladLane aims to provide members with quick and easy recipes. 
 Members can sign up and partake in a meetup or have recipes sent to them via mail. Our site provides video tutorials tips on how to make salads.
 The site is comprised of four pages; Home, Recipes Contact and Get connected where user can sign up.
+
 The Home page contains information such as meetup times, a section for non vegans and a video of a member making salad.
 The Recipes page contains a wide variety of flavours with images from sweet to spicy. For consistency of user experience the site's logo, navigation links and social
 media links on the page footer are repeated across the site's pages. The design and layout is also consistent when viewed on desktop, tablet or mobile
@@ -75,7 +78,8 @@ The website is made up of 4 pages.
 ### Features left to implement
 
 In the future we aim to be able to deliver fresh salad dishes to members at home who might not be able to attend our monthly meetings.
-Weshall charge members a small subscription fee for this feature or a pay as you order option where they're not bound by any monthly or yearly subscription. Depending onhow 
+We shall charge members a small subscription fee for this feature or a pay as you order option where they're not bound by any monthly or yearly subscription. 
+Implementation of this feature will depend on the number of requests we receive from members. 
  
 ## Technology used
 This projet is built using HTML, CSS and Bootstrap
@@ -161,6 +165,6 @@ using Github pages. This can be located via:
   - https://www.pexels.com/search/eating/ 
 
 ### Acknowledgements
-- I received inspiration for this project from vegan life
+- I received inspiration for this project from the Love Running project.
 
 
