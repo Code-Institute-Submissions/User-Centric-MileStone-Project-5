@@ -51,7 +51,7 @@ devices. The use of Bootstrap enables the site elements to rearrange themselves 
 ## Demo 
 
 - Screen shot
-  - ![Image of website](assets/img/website-demo.jpg)
+  - ![Image of website](/assets/img/website-demo.png) 
 
 
 ## Features
