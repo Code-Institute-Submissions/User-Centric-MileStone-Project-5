@@ -13,7 +13,6 @@ The site contains basic information for salad lover who may wish to drop in for 
 
 
 
-
 ## UX
 
 This project is for anyone who loves Salad. Owing to the busy schedules people often have, it's sometimes difficult to keep a 
@@ -47,6 +46,13 @@ devices. The use of Bootstrap enables the site elements to rearrange themselves 
 
 - website
   - https://dop-dd.github.io/User-Centric-MileStone-Project-1/index.html
+
+
+## Demo 
+
+- Screen shot
+  - ![Image of website](assets/img/website-demo.jpg)
+
 
 ## Features
 
