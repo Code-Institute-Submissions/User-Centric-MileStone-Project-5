@@ -37,10 +37,8 @@ body {
   color: white;
 }
 
-/*h1,h2,h3,h4,h5,h6 {
-  margin-top: 20px;
-}
-*/
+.vegan-recipes,
+.vegan-content,
 p {
   font-family: "Exo", sans-serif;
   font-size: 18px;
@@ -116,7 +114,6 @@ h3 {
 }
 
 /**----------------------- Home page -main content-*/
-
 .welcome {
   margin: 5px auto;
   font-family: "Exo", sans-serif;
@@ -159,7 +156,6 @@ h3 {
 }
 
 /* ----------------------------------------Recipes page */
-
 .vegan-recipes {
   margin: 2em auto;
   padding: 1em;
@@ -260,7 +256,7 @@ footer p {
 }
 /*-------------------------- End of Social Media-*/
 
-/*-------------------------- mobile phone--*/
+/*---------------------------------------Media Queries--*/
 @media screen and (max-width: 743px) {
   #cover-text {
     display: none;
@@ -308,6 +304,4 @@ footer p {
        margin-bottom: 30px;
        padding: 10px;       
    }
-
-
 }
