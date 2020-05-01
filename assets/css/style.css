@@ -206,6 +206,9 @@ p {
   font-size: 18px;
 }
 
+#signin-text {
+    color: orange;
+}
 /*----------------------------------------Footer */
 footer {
   background-color: #03883f;
@@ -265,8 +268,8 @@ footer p {
   
   .welcome  {    
     font-size: 150%;
-    margin: 0;
-    padding: 0;
+    margin-bottom: 15px;
+    padding: 5px;
     }
 
   .main-content {
